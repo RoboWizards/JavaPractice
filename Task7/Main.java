@@ -1,4 +1,4 @@
-package TaskSix;
+package Task7;
 
 /**
  *
@@ -6,16 +6,15 @@ package TaskSix;
  */
 public class Main {
     
-    //Declare a new ExampleObject
     ExampleObject exampleObject;
     
     public Main(){
-        //Initilize the object
         exampleObject = new ExampleObject();
+        //To call a method in an object, add a dot seperator after the variable name & find the method name. NetBeans should autocomplete this for you.
+        exampleObject.exampleMethod();
     }
     
     public static void main(){
-        //Call new instance of this class
         new Main();
     }
     

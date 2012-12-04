@@ -1,4 +1,4 @@
-package TaskFour;
+package Task4;
 
 /**
  *

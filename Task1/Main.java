@@ -1,5 +1,5 @@
 //Indicates the package (Folder) the code is located
-package TaskOne;
+package Task1;
 
 /**
  *
